@@ -1,0 +1,19 @@
+
+- Books
+	https://www.goodreads.com/book/show/179700.Introduction_to_Linear_Algebra
+
+- Scientific articles
+	- Robot Movements
+		https://www.mdpi.com/1424-8220/20/1/75
+		https://www.mdpi.com/1424-8220/16/10/1658
+
+	- Mathematical model
+		https://www.mdpi.com/2076-3417/12/5/2606
+	
+- YouTube 
+	
+	- Reference project
+		https://www.youtube.com/watch?v=OIdMkZyhx7E&t=6s
+		
+	- Rotational Kinematics and dynamics
+		https://www.youtube.com/watch?v=fNfXWTucc2w&list=PL5CE447B0CDD683AE&index=1
